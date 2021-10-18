@@ -1,4 +1,4 @@
-## Домашняя работа Git Hub №1
+## Домашняя работа Git Bash №1
 1. Создать папку;
 ```	
 mkdir testgit1
@@ -98,7 +98,7 @@ chmod +x ./myscript.sh
 ./myscript.sh
 ```
 ____
-## Домашняя работа Git Hub №2
+## Домашняя работа Git Bash №2
 1. На локальном репозитории сделать ветки для:- Postman – Jmeter – CheckLists - Bag Reports – SQL – Charles - Mobile testing;
 ```	
 git checkout –b Postman
